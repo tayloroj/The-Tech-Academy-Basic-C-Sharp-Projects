@@ -10,13 +10,20 @@ namespace BooleanLogicAssignment
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("What is your favorite number?");
-            int favNum = Convert.ToInt32(Console.ReadLine());
+            int num1 = 43;
+            int num2 = 37;
+            int num3 = 68;
 
-            string result = favNum == 22 ? "Your favorite number is great!" : "That number is garbage!";
-            
+            string result = num1 + num2 > num3 ? "Statement 1" : "Statement 2";
             Console.WriteLine(result);
-            Console.ReadLine();
+
+            //Console.WriteLine("What is your favorite number?");
+            //int favNum = Convert.ToInt32(Console.ReadLine());
+
+            //string result = favNum == 22 ? "Your favorite number is great!" : "That number is garbage!";
+
+            //Console.WriteLine(result);
+            //Console.ReadLine();
 
             //int roomTemp = 70;
 
@@ -44,7 +51,7 @@ namespace BooleanLogicAssignment
             //}
 
             //Console.ReadLine();           
-            
+
             //int num1 = 22;
             //int num2 = 25;
 
@@ -72,7 +79,7 @@ namespace BooleanLogicAssignment
 
             //string comparisonResult = currentTemp == roomTemp ? "It is room temp" : "It is not room temp"; //Ternary example
             //Console.WriteLine(comparisonResult);
-           
+
             //if (currentTemp == roomTemp)
             //{
             //    Console.WriteLine("It is exactly room temp");

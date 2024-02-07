@@ -27,7 +27,7 @@ namespace BranchingAssignment
                 {
                     Console.WriteLine("Package too big to be shipped via Package Express.\n");
                 }
-                else 
+                else
                 {
                     //Calcuation of the package using input from user
                     decimal quote = width * height * length * weight / 100;
