@@ -8,10 +8,10 @@ namespace StringAssignment
         static void Main(string[] args)
         {
             //Concatenate three strings
-            string stringOne = "This is ";
-            string stringTwo = "how to concatenate ";
-            string stringThree = "strings";
-            Console.WriteLine(stringOne + stringTwo + stringThree.ToUpper()); //Example of the toUpper use to make all upper case letters
+            //string stringOne = "This is ";
+            //string stringTwo = "how to concatenate ";
+            //string stringThree = "strings";
+            //Console.WriteLine(stringOne + stringTwo + stringThree.ToUpper()); //Example of the toUpper use to make all upper case letters
                       
             //Example of how to use StringBuilder
             StringBuilder stringBuilder = new StringBuilder();

@@ -14,7 +14,7 @@ namespace MathAndComparisonOperatorsAssignment
             int num2 = 37;
             int num3 = 68;
 
-            string result = num1 > num2 && num2 < num3 ? "Statement 1" : "Statement 2";
+            string result = num1 > num2 ? "Statement 1" : "Statement 2";
             Console.WriteLine(result);
 
             //Console.WriteLine("Anonymous Income Comparison Program\n");
