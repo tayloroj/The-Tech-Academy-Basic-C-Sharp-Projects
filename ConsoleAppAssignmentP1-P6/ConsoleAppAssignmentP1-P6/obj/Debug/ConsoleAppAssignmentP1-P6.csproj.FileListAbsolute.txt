@@ -1,0 +1,7 @@
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssignmentP1-P6\ConsoleAppAssignmentP1-P6\bin\Debug\ConsoleAppAssignmentP1-P6.exe.config
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssignmentP1-P6\ConsoleAppAssignmentP1-P6\bin\Debug\ConsoleAppAssignmentP1-P6.exe
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssignmentP1-P6\ConsoleAppAssignmentP1-P6\bin\Debug\ConsoleAppAssignmentP1-P6.pdb
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssignmentP1-P6\ConsoleAppAssignmentP1-P6\obj\Debug\ConsoleAppAssignmentP1-P6.csproj.AssemblyReference.cache
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssignmentP1-P6\ConsoleAppAssignmentP1-P6\obj\Debug\ConsoleAppAssignmentP1-P6.csproj.CoreCompileInputs.cache
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssignmentP1-P6\ConsoleAppAssignmentP1-P6\obj\Debug\ConsoleAppAssignmentP1-P6.exe
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssignmentP1-P6\ConsoleAppAssignmentP1-P6\obj\Debug\ConsoleAppAssignmentP1-P6.pdb
