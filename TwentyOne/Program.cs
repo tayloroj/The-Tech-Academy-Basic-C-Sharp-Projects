@@ -10,35 +10,15 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            Deck deck = new Deck();
-            deck.Shuffle(3);
-            //int timesShuffled = 0;
-            //deck = Shuffle(deck, out timesShuffled, 3); //Used to call the function Shuffle below
-            //deck = Shuffle(deck, 3); //Used to call the Deck Shuffle(Deck deck, int times) function below
+            deck deck = new deck();
+            deck.shuffle(3);
 
-            foreach (Card card in deck.Cards)
+            foreach (card card in deck.cards)
             {
-                Console.WriteLine(card.Face + " of " + card.Suit);
+                console.writeline(card.face + " of " + card.suit);
             }
-            Console.WriteLine(deck.Cards.Count);
-            //Console.WriteLine("Times shuffled: {0}", timesShuffled);
-            //deck.Cards = new List<Card>();
-
-
-            //An object of date type "Card" assigned to the variable cardOne
-            //Card cardOne = new Card();
-            //Assign the string "Queen" to the property "Face" of the object "cardOne"/////Used in place of a constructor
-            //cardOne.Face = "Queen";
-            //cardOne.Suit = "Spades";
-
-            //deck.Cards.Add(cardOne);
-
-
-
-            //Console.WriteLine(cardOne.Face + " of " + cardOne.Suit);
-            Console.ReadLine();
-        }
-
-        
+            console.writeline(deck.cards.count);
+            console.readline();
+        }        
     }
 }

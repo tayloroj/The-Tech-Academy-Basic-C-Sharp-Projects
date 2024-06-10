@@ -37,8 +37,6 @@ namespace TwentyOne
             //Cards.Add(cardOne);
         }
         public List<Card> Cards { get; set; }
-
-        //public static Deck Shuffle(Deck deck) //Function in C#, called above using "deck = Shuffle(deck);"
         public void Shuffle(int times = 1)
         {
             for (int i = 0; i < times; i++)
@@ -55,14 +53,5 @@ namespace TwentyOne
                 Cards = TempList;
             }
         }
-
-        //public static Deck Shuffle(Deck deck, int times) 
-        //{
-        //    for (int i = 0; i < times; i++) 
-        //    {
-        //        deck = Shuffle(deck);
-        //    }
-        //    return deck;
-        //}
     }
 }
