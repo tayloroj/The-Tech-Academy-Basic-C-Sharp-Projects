@@ -10,15 +10,15 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            deck deck = new deck();
-            deck.shuffle(3);
+            Deck deck = new Deck();
+            deck.Shuffle(3);
 
-            foreach (card card in deck.cards)
+            foreach (Card card in deck.Cards)
             {
-                console.writeline(card.face + " of " + card.suit);
+                Console.WriteLine(card.Face + " of " + card.Suit);
             }
-            console.writeline(deck.cards.count);
-            console.readline();
+            Console.WriteLine(deck.Cards.Count);
+            Console.ReadLine();
         }        
     }
 }
