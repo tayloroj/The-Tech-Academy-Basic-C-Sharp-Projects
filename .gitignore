@@ -1,0 +1,25 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CallingMethods/.vs/CallingMethods
+/ConsoleAppStringsAndIntegersAssignment/.vs/ConsoleAppStringsAndIntegersAssignment
+/TwentyOne/.vs/TwentyOne
+/MainMethodAssignment/.vs/MainMethodAssignment/v17
+/MainMethodAssignment/.vs/MainMethodAssignment/FileContentIndex
+/MethodAssignment/.vs/MethodAssignment
+/MethodClassAssignment/.vs/MethodClassAssignment
+/ClassMethodAssignment/.vs/ClassMethodAssignment/v17
+/ClassMethodAssignment/.vs/ClassMethodAssignment/FileContentIndex
+/MethodsAndObjectsAssignment/.vs/MethodsAndObjectsAssignment/v17
+/MethodsAndObjectsAssignment/.vs/MethodsAndObjectsAssignment/FileContentIndex
+/AbstractClassAssignment/.vs/AbstractClassAssignment
+/PolymorphismAssignment/.vs/PolymorphismAssignment
+/OperatorsAssignment/.vs/OperatorsAssignment
+/ParametersAssignment/.vs
+/ParsingEnumsAssignment/.vs/ParsingEnumsAssignment
+/StructAssignment/.vs/StructAssignment
+/LambdaExpressionAssignment/.vs/LambdaExpressionAssignment
+/InputAssignment/.vs/InputAssignment
+/DatetimeAssignment/.vs/DatetimeAssignment
+/ConstructorAssignment/.vs/ConstructorAssignment
