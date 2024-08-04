@@ -1,0 +1,7 @@
+C:\Users\andre\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Unit 4 Assignment\Unit 4 Assignment\bin\Debug\Unit 4 Assignment.exe.config
+C:\Users\andre\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Unit 4 Assignment\Unit 4 Assignment\bin\Debug\Unit 4 Assignment.exe
+C:\Users\andre\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Unit 4 Assignment\Unit 4 Assignment\bin\Debug\Unit 4 Assignment.pdb
+C:\Users\andre\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Unit 4 Assignment\Unit 4 Assignment\obj\Debug\Unit 4 Assignment.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Unit 4 Assignment\Unit 4 Assignment\obj\Debug\Unit 4 Assignment.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Unit 4 Assignment\Unit 4 Assignment\obj\Debug\Unit 4 Assignment.exe
+C:\Users\andre\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Unit 4 Assignment\Unit 4 Assignment\obj\Debug\Unit 4 Assignment.pdb

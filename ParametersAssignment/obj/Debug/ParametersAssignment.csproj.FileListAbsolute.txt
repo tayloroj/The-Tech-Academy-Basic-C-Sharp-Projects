@@ -1,0 +1,7 @@
+C:\Users\tayloroj\source\repos\ParametersAssignment\bin\Debug\ParametersAssignment.exe.config
+C:\Users\tayloroj\source\repos\ParametersAssignment\bin\Debug\ParametersAssignment.exe
+C:\Users\tayloroj\source\repos\ParametersAssignment\bin\Debug\ParametersAssignment.pdb
+C:\Users\tayloroj\source\repos\ParametersAssignment\obj\Debug\ParametersAssignment.csproj.AssemblyReference.cache
+C:\Users\tayloroj\source\repos\ParametersAssignment\obj\Debug\ParametersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\tayloroj\source\repos\ParametersAssignment\obj\Debug\ParametersAssignment.exe
+C:\Users\tayloroj\source\repos\ParametersAssignment\obj\Debug\ParametersAssignment.pdb

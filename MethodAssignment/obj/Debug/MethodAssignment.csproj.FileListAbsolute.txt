@@ -1,0 +1,7 @@
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAssignment\bin\Debug\MethodAssignment.exe.config
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAssignment\bin\Debug\MethodAssignment.exe
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAssignment\bin\Debug\MethodAssignment.pdb
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAssignment\obj\Debug\MethodAssignment.csproj.AssemblyReference.cache
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAssignment\obj\Debug\MethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAssignment\obj\Debug\MethodAssignment.exe
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAssignment\obj\Debug\MethodAssignment.pdb

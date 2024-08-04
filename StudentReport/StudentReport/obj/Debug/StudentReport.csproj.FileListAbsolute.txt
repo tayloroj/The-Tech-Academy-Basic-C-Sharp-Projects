@@ -1,0 +1,7 @@
+C:\Users\andre\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\StudentReport\StudentReport\bin\Debug\StudentReport.exe.config
+C:\Users\andre\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\StudentReport\StudentReport\bin\Debug\StudentReport.exe
+C:\Users\andre\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\StudentReport\StudentReport\bin\Debug\StudentReport.pdb
+C:\Users\andre\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\StudentReport\StudentReport\obj\Debug\StudentReport.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\StudentReport\StudentReport\obj\Debug\StudentReport.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\StudentReport\StudentReport\obj\Debug\StudentReport.exe
+C:\Users\andre\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\StudentReport\StudentReport\obj\Debug\StudentReport.pdb
