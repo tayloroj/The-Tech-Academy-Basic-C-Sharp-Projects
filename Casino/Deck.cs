@@ -9,10 +9,10 @@ namespace Casino
 {
     public class Deck
     {
-        public Deck() 
+        public Deck()
         {
             Cards = new List<Card>();
-            
+
             for (int i = 0; i < 13; i++)
             {
                 for (int j = 0; j < 4; j++)
@@ -22,7 +22,7 @@ namespace Casino
                     card.Suit = (Suit)j;
                     Cards.Add(card);
                 }
-            }           
+            }
         }
         public List<Card> Cards { get; set; }
         public void Shuffle(int times = 1)

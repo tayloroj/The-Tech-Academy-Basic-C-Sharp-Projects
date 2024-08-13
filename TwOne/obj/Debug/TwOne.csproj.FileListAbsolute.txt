@@ -1,0 +1,10 @@
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwOne\obj\Debug\TwOne.csproj.AssemblyReference.cache
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwOne\obj\Debug\TwOne.csproj.CoreCompileInputs.cache
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwOne\bin\Debug\TwOne.exe.config
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwOne\bin\Debug\TwOne.exe
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwOne\bin\Debug\TwOne.pdb
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwOne\bin\Debug\Casino.dll
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwOne\bin\Debug\Casino.pdb
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwOne\obj\Debug\TwOne.csproj.Up2Date
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwOne\obj\Debug\TwOne.exe
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwOne\obj\Debug\TwOne.pdb

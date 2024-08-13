@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Casino
 {
     public struct Card
-    {      
+    {
         public Suit Suit { get; set; }
         public Face Face { get; set; }
 
@@ -30,7 +30,7 @@ namespace Casino
         Two,
         Three,
         Four,
-        Five, 
+        Five,
         Six,
         Seven,
         Eight,

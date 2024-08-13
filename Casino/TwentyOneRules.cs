@@ -24,7 +24,7 @@ namespace Casino.TwentyOne
             [Face.King] = 10,
             [Face.Ace] = 1
         };
-        private static int[] GetAllPossibleHandValues(List<Card> Hand) 
+        private static int[] GetAllPossibleHandValues(List<Card> Hand)
         {
             int aceCount = Hand.Count(x => x.Face == Face.Ace);
             int[] result = new int[aceCount + 1];
@@ -34,21 +34,21 @@ namespace Casino.TwentyOne
             {
                 return result;
             }
-            for (int i = 1; i < result.Length; i++) 
+            for (int i = 1; i < result.Length; i++)
             {
                 value += (i * 10);
                 result[i] = value;
             }
             return result;
         }
-        public static bool CheckForBlackJack(List<Card> Hand) 
+        public static bool CheckForBlackJack(List<Card> Hand)
         {
             int[] possibleValues = GetAllPossibleHandValues(Hand);
             int value = possibleValues.Max();
             return value == 21;
         }
 
-        public static bool IsBusted(List<Card> Hand) 
+        public static bool IsBusted(List<Card> Hand)
         {
             int value = GetAllPossibleHandValues(Hand).Min();
             return value > 21;
@@ -57,7 +57,7 @@ namespace Casino.TwentyOne
         public static bool ShouldDealerStay(List<Card> Hand)
         {
             int[] possibleHandValues = GetAllPossibleHandValues(Hand);
-            foreach (int value in possibleHandValues) 
+            foreach (int value in possibleHandValues)
             {
                 if (value > 16 && value < 22)
                 {
@@ -67,7 +67,7 @@ namespace Casino.TwentyOne
             return false;
         }
 
-        public static bool? CompareHands(List<Card> PlayerHand, List<Card> DealerHand) 
+        public static bool? CompareHands(List<Card> PlayerHand, List<Card> DealerHand)
         {
             int[] playerResults = GetAllPossibleHandValues(PlayerHand);
             int[] dealerResults = GetAllPossibleHandValues(DealerHand);

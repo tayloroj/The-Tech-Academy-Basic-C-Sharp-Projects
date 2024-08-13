@@ -16,7 +16,7 @@ namespace Casino
         public Dictionary<Player, int> Bets { get { return _bets; } set { _bets = value; } }
         public abstract void Play();
         public virtual void ListPlayers()
-        { 
+        {
             foreach (Player player in Players)
             {
                 Console.WriteLine(player.Name);

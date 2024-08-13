@@ -16,6 +16,7 @@ namespace ConstructorAssignment
 
             // Display the car's details
             myCar.DisplayCarDetails();
+            Console.ReadLine();
         }
     }
 }

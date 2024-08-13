@@ -5,7 +5,7 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwentyOne", "TwentyOne.csproj", "{3E835934-FFA6-44A9-8E7C-C7A0D56C8400}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casino", "..\Casino\Casino.csproj", "{C05C6EED-E314-4D68-BCA7-FA8610D81E0F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casino", "..\Casino\Casino.csproj", "{26354425-DBC4-43E8-AA51-FD9A3E8BCEE4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{3E835934-FFA6-44A9-8E7C-C7A0D56C8400}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E835934-FFA6-44A9-8E7C-C7A0D56C8400}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E835934-FFA6-44A9-8E7C-C7A0D56C8400}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C05C6EED-E314-4D68-BCA7-FA8610D81E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C05C6EED-E314-4D68-BCA7-FA8610D81E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C05C6EED-E314-4D68-BCA7-FA8610D81E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C05C6EED-E314-4D68-BCA7-FA8610D81E0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26354425-DBC4-43E8-AA51-FD9A3E8BCEE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26354425-DBC4-43E8-AA51-FD9A3E8BCEE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26354425-DBC4-43E8-AA51-FD9A3E8BCEE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26354425-DBC4-43E8-AA51-FD9A3E8BCEE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
