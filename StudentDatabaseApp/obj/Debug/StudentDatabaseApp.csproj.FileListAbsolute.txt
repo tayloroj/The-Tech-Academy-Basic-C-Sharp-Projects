@@ -1,0 +1,14 @@
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\StudentDatabaseApp\bin\Debug\StudentDatabaseApp.exe.config
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\StudentDatabaseApp\bin\Debug\StudentDatabaseApp.exe
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\StudentDatabaseApp\bin\Debug\StudentDatabaseApp.pdb
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\StudentDatabaseApp\bin\Debug\EntityFramework.dll
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\StudentDatabaseApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\StudentDatabaseApp\bin\Debug\EntityFramework.xml
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\StudentDatabaseApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.csproj.AssemblyReference.cache
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.csproj.CoreCompileInputs.cache
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\StudentDatabaseApp\obj\Debug\StudentD.5002D26D.Up2Date
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.exe
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.pdb
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.Migrations.InitialCreate.resources
+C:\Users\tayloroj\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.csproj.GenerateResource.cache
